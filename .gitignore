@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Project dependent
+/.settings
+/Release
+/arduino_secrets.h
+/sloeber.ino.cpp
